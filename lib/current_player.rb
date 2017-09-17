@@ -4,6 +4,6 @@ def turn_count(board)
     if plays == "X" || plays == "O"
       counter += 1
     end
-   counter
  end
+ counter
 end
